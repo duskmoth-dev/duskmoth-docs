@@ -1,0 +1,26 @@
+{
+  "name": "@duskmoth-dev/docs",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "description": "Duskmoth docs",
+  "license": "MIT",
+  "author": {
+    "name": "Duskmoth",
+    "email": "hello@duskmoth.xyz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/duskmoth-dev/duskmoth-docs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/duskmoth-dev/duskmoth-docs/issues"
+  },
+  "homepage": "https://duskmoth.xyz",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  }
+}
