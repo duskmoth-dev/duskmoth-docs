@@ -2,6 +2,7 @@
 
 Practical guides for AI-assisted wallet insights and private transaction preparation on Solana.
 
+- [Application source and setup](https://github.com/duskmoth-dev/duskmoth)
 - [Getting started](guides/getting-started.md)
 - [Private transaction guide](guides/private-transactions.md)
 - [API reference](guides/api.md)
