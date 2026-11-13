@@ -1,5 +1,15 @@
 # Duskmoth Documentation
 
+## Build with Duskmoth
+
+- [Runnable SDK examples](https://github.com/duskmoth-dev/duskmoth-sdk/tree/main/examples)
+- [SDK releases and verified package downloads](https://github.com/duskmoth-dev/duskmoth-sdk/releases)
+- [Developer Discussions](https://github.com/duskmoth-dev/duskmoth-sdk/discussions)
+- [npm publication status and owner setup](https://github.com/duskmoth-dev/duskmoth-sdk/blob/main/docs/publishing.md)
+
+GitHub availability and npm publication are separate. Integration examples do not move
+funds; premium API calls can consume passes only when explicitly called.
+
 Practical guides for AI-assisted wallet insights and private transaction preparation on Solana.
 
 - [Application source and setup](https://github.com/duskmoth-dev/duskmoth)
